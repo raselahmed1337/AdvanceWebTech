@@ -32,6 +32,12 @@
 $ npm install
 ```
 
+## Install these lib
+
+```bash
+$ npm i --save class-validator class-transformer
+```
+
 ## Running the app
 
 ```bash
