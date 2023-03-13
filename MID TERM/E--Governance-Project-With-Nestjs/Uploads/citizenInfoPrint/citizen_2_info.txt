@@ -1,0 +1,2 @@
+{"id":2,"name":"citizen2","nid":"1234567890002","phoneNumber":"01790000002","email":"citizen2@gmail.com"}
+null
